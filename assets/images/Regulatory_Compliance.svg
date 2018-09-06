@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="104px" height="122px" viewBox="0 0 104 122" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Slice 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Regulatory_Compliance">
+            <path d="M52,0 L52,15.88125 C73.2333333,15.88125 90.35,36.0479167 90.35,60.5 L104,60.5 C104,26.9729167 80.8166667,0 52,0 Z" id="Shape" fill="#56AAFF" fill-rule="nonzero"></path>
+            <path d="M90.35,60.5 C90.35,85.2041667 73.0166667,105.11875 52,105.11875 C30.9833333,105.11875 13.65,84.9520833 13.65,60.5 C13.65,48.1479167 17.9833333,37.05625 24.9166667,28.9895833 L15.1666667,17.6458333 C5.85,28.4854167 0,43.6104167 0,60.5 C0,94.0270833 23.1833333,121 52,121 C80.8166667,121 104,94.0270833 104,60.5 L90.35,60.5 Z" id="Shape" fill="#D9DCE1" fill-rule="nonzero"></path>
+            <path d="M24.9166667,28.9895833 C31.85,20.9229167 41.3833333,15.88125 52,15.88125 L52,0 C37.7,0 24.7,6.80625 15.1666667,17.6458333 L24.9166667,28.9895833 Z" id="Shape" fill="#0478ED" fill-rule="nonzero"></path>
+            <path d="M67.6,40.5854167 L36.4,40.5854167 C35.5333333,40.5854167 34.6666667,41.59375 34.6666667,42.6020833 L34.6666667,72.3479167 C34.6666667,76.38125 36.6166667,79.9104167 39.8666667,81.4229167 L52,87.725 L64.1333333,81.4229167 C67.1666667,79.9104167 69.3333333,76.1291667 69.3333333,72.3479167 L69.3333333,42.6020833 C69.3333333,41.59375 68.4666667,40.5854167 67.6,40.5854167 Z" id="Shape" fill="#0478ED" fill-rule="nonzero"></path>
+            <polyline id="Shape" stroke="#FAC333" stroke-width="2" stroke-linecap="square" points="44.2 61.25625 50.05 68.0625 60.6666667 55.9625"></polyline>
+        </g>
+    </g>
+</svg>

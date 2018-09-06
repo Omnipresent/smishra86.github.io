@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="104px" height="121px" viewBox="0 0 104 121" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Slice 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient id="left-to-right">
+          <stop offset="0" stop-color="#FAC333">
+            <animate dur="2s" attributeName="offset" fill="freeze" from="0" to="1" />
+          </stop>
+          <stop offset="0" stop-color="#fff">
+            <animate dur="2s" attributeName="offset" fill="freeze" from="0" to="1" />
+          </stop>
+          
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Software_Development" transform="translate(3.000000, 13.000000)" stroke-width="4">
+            <path d="M92,0 L6,0 C2.686,0 0,2.686 0,6 L0,90 C0,93.314 2.686,96 6,96 L92,96 C95.314,96 98,93.314 98,90 L98,6 C98,2.686 95.314,0 92,0 Z" id="Shape" stroke="#56AAFF"></path>
+            <path d="M0,18 L97,18" id="Shape" stroke="#56AAFF"></path>
+            <g id="Group" transform="translate(11.000000, 9.000000)" stroke="#FAC333">
+                <path d="M0,0 L0.05,0" id="Shape"></path>
+                <path d="M8.944,0 L13.503,0" id="Shape" stroke-dasharray="0.1112,8.894399999999999"></path>
+                <path d="M17.95,0 L18,0" id="Shape"></path>
+            </g>
+            <polyline id="Shape" fill="url(#left-to-right)" points="40.541 32.492 35.641 36.947 40.541 41.402"></polyline>
+            <polyline id="Shape" stroke="url(#left-to-right)" points="57.459 32.492 62.359 36.947 57.459 41.402"></polyline>
+            <path d="M46.327,42.961 L51.673,30.933" id="Shape" stroke="url(#left-to-right)"></path>
+            <path d="M17,49 L26,49" id="Shape" stroke="#E7E5EA"></path>
+            <path d="M25,56 L34,56" id="Shape" stroke="#E7E5EA"></path>
+            <path d="M17,73 L34,73" id="Shape" stroke="#E7E5EA"></path>
+            <path d="M71,56 L80,56" id="Shape" stroke="#E7E5EA"></path>
+            <path d="M42,56 L63,56" id="Shape" stroke="#E7E5EA"></path>
+            <path d="M25,81 L42,81" id="Shape" stroke="#E7E5EA"></path>
+            <path d="M50,81 L63,81" id="Shape" stroke="#E7E5EA"></path>
+            <path d="M70,81 L80,81" id="Shape" stroke="#E7E5EA"></path>
+            <path d="M25,64 L46,64" id="Shape" stroke="#E7E5EA"></path>
+        </g>
+    </g>
+</svg>
