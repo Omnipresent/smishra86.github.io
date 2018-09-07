@@ -370,7 +370,7 @@ section#serviceSec aside.serviceTab a {
   color: #9cc4ff;
   font-size: 12px;
   text-decoration: none;
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
   font-weight: bold;
 }
 
@@ -802,6 +802,12 @@ section#ourClients {
   background-color: #fff;
 }
 
+section#careers {
+  text-align: left;
+  padding: 80px 0;
+  background-color: #fff;
+}
+
 section#ourClients h2 {
   font-family: "Montserrat-Bold", sans-serif;
   margin-bottom: 10px;
@@ -809,7 +815,19 @@ section#ourClients h2 {
   color: #444868;
 }
 
+section#careers h2 {
+  font-family: "Montserrat-Bold", sans-serif;
+  margin-bottom: 10px;
+  font-size: 28px;
+  color: #444868;
+}
+
 section#ourClients p {
+  font-family: "Montserrat-Light", sans-serif;
+  line-height: 28px;
+}
+
+section#careers p {
   font-family: "Montserrat-Light", sans-serif;
   line-height: 28px;
 }
@@ -959,6 +977,8 @@ footer section nav#social a:first-child { margin-left: 0; }
 footer section nav#social a.facebook { background-image: url('../images/facebook.svg'); }
 
 footer section nav#social a.twitter { background-image: url('../images/twitter.svg'); }
+
+footer section nav#social a.linkedin { background-image: url('../images/linkedin.svg'); }
 
 footer section nav#social a.rss { background-image: url('../images/rss.svg'); }
 
